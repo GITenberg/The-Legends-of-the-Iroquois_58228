@@ -1,11 +1,16 @@
 _repo: The-Legends-of-the-Iroquois_58228
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 58228-h/images/cover.jpg
 creator:
   author:
     agent_name: Canfield, William W.
     gutenberg_agent_id: '49839'
     url: http://www.gutenberg.org/2009/agents/49839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58228#The-Legends-of-the-Iroquois
 gutenberg_issued: '2018-11-03'
 gutenberg_type: Text
 identifiers:
